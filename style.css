@@ -11,13 +11,14 @@ html{
 }
 .container{
     height:100vh;
-    position:relative;
+    position:absolute;
     background-img: url(2.jpg);
     background-size:cover;
     background-position:center;
-    
-    
-    
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
 }
 
 .profile {
