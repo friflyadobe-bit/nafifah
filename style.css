@@ -10,9 +10,14 @@ html{
   font-style:normal;
 }
 .container{
-    height:100vh;
-    position:relative;
-    background-image:url (3.jpg);
+     max-width: 500px;
+  margin: 0 auto;
+  background: red;
+  height: 100vh;
+  background-image: url("3.jpg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 .profile {
