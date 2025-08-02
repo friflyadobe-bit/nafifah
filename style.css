@@ -13,9 +13,10 @@ font-family: "Lora", serif;
  max-width: 500px;
   margin: 0 auto;
   background: red;
+  position:relative;
   height: 100vh;
   background-image: url("3.jpg");
-  background-position:relative;
+  background-position:center;
   background-size: cover;
   background-attachment: fixed;
 }
