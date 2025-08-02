@@ -3,14 +3,14 @@ margin:0;
 paddjng:0;
 }
 
-html{
-    font-family: "Lora", serif;
+html {
+font-family: "Lora", serif;
   font-optical-sizing:auto;
   font-weight: <weight>;
   font-style:normal;
 }
 .container{
-     max-width: 500px;
+ max-width: 500px;
   margin: 0 auto;
   background: red;
   height: 100vh;
