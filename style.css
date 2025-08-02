@@ -15,7 +15,7 @@ font-family: "Lora", serif;
   background: red;
   height: 100vh;
   background-image: url("3.jpg");
-  background-position: center;
+  background-position:relative;
   background-size: cover;
   background-attachment: fixed;
 }
