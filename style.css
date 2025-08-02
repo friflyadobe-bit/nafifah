@@ -12,7 +12,6 @@ font-family: "Lora", serif;
 .container{
  max-width: 500px;
   margin: 0 auto;
-  background: red;
   height: 100vh;
   background-image: url("3.jpg");
   background-position:relative;
